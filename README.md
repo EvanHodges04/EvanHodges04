@@ -37,4 +37,4 @@ Computer Science Major, Artificial Intelligence Cert
 |\
 |\
 |\
-|\
+|
