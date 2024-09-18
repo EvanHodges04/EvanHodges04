@@ -1,7 +1,7 @@
 ## Hello, I'm
 # Evan Hodges
 
-[LinkedIn](https://www.linkedin.com/in/evanhodges04/) | [Handshake](https://auburn.joinhandshake.com/profiles/41558853) | [Email](ejh0058@auburn.edu)
+[\[LinkedIn\]](https://www.linkedin.com/in/evanhodges04/) | [\[Handshake\]](https://auburn.joinhandshake.com/profiles/41558853) | [\[Email\]](mailto:ejh0058@auburn.edu)
 
 Sophomore at Auburn University.
 Studying Computer Science and pursuing an Artificial Intelligence Certificate.
