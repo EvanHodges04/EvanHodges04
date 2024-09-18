@@ -1,4 +1,3 @@
-<pre>
 ## Hello, I'm Evan Hodges
 
 [\[LinkedIn\]](https://www.linkedin.com/in/evanhodges04/) | [\[Handshake\]](https://auburn.joinhandshake.com/profiles/41558853) | [\[Email\]](mailto:ejh0058@auburn.edu)
@@ -32,4 +31,3 @@ Studying Computer Science and pursuing an Artificial Intelligence Certificate.
 - [\[ENGR-1110\]](Link) - Introduction to Software Engineering and Computer Science
 - [\[COMP-1210\]](Link) - Fundamentals of Computing I
 - [\[COMP-2210\]](Link) - Fundamentals of Computing II
-</pre>
