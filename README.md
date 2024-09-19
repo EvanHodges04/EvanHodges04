@@ -12,7 +12,7 @@ Pursuing a Bachelor's degree in Computer Science and a Certificate in Artificial
 - I'm always listening to music. Some artists I enjoy are The Crane Wives, Daft Punk, Crystal Castles, and many more.
 
 # Links
-<a href="https://www.linkedin.com/in/evanhodges04/" target="_blank">[LinkedIn]</a> | <a href="https://auburn.joinhandshake.com/profiles/41558853">[Handshake]</a> | <a href="mailto:ejh0058@auburn.edu">[Email]</a>
+<a href="https://www.linkedin.com/in/evanhodges04/" target="blank">[LinkedIn]</a> | <a href="https://auburn.joinhandshake.com/profiles/41558853">[Handshake]</a> | <a href="mailto:ejh0058@auburn.edu">[Email]</a>
 
 # Languages and Tools
 <a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.oracle.com/java" target="_blank">[Java]</a>
