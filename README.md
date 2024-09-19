@@ -2,7 +2,7 @@
 
 <pre>
 Sophomore at Auburn University.
-Pursuing a Bachelor's degree in Computer Science and a Certificate in Artificial Intelligence.
+Pursuing a Bachelor of Science in Computer Science and a Certificate in Artificial Intelligence.
 
 # More About Me
 - Born and raised outside of Memphis- in Collierville, TN.
