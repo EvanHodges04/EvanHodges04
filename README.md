@@ -15,7 +15,7 @@ Pursuing a Bachelor's degree in Computer Science and a Certificate in Artificial
 <a href="https://www.linkedin.com/in/evanhodges04/">[LinkedIn]</a> | <a href="https://auburn.joinhandshake.com/profiles/41558853">[Handshake]</a> | <a href="mailto:ejh0058@auburn.edu">[Email]</a>
 
 # Languages and Tools
-<a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.cplusplus.org/" target="_blank">[C++]</a>
+<a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.oracle.com/java" target="_blank">[Java]</a>
 
 # Coursework
 <a href="https://github.com/EvanHodges04/ENGR-1110" target="_blank">[ENGR-1110]</a> - Introduction to Computer Science and Software Engineering
