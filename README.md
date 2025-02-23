@@ -9,7 +9,7 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 - Played the Alto Saxophone for Collierville High School's Varsity Concert Band.
 - Played soccer for Lobos Rush Soccer Club, West Collierville Middle School, and Collierville High School.
 - I play <em>tons</em> of video games. I currently play top lane for Auburn University's Navy League of Legends Esports team.
-- I'm always listening to music. Some artists I enjoy are The Crane Wives, Daft Punk, Crystal Castles, and many more.
+- I'm always listening to music. Some artists I enjoy are The Crane Wives, Deftones, Crystal Castles, many more.
 
 # Links
 <a href="https://www.linkedin.com/in/evanhodges04/">[LinkedIn]</a> | <a href="https://auburn.joinhandshake.com/profiles/41558853">[Handshake]</a> | <a href="mailto:ejh0058@auburn.edu">[Email]</a>
