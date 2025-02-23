@@ -21,6 +21,7 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 <a href="https://github.com/EvanHodges04/ENGR-1110" target="_blank">[ENGR-1110]</a> - Introduction to Computer Science and Software Engineering
 <a href="https://github.com/EvanHodges04/COMP-1210" target="_blank">[COMP-1210]</a> - Fundamentals of Computing I
 <a href="https://github.com/EvanHodges04/COMP-2210" target="_blank">[COMP-2210]</a> - Fundamentals of Computing II
+<a href="https://github.com/EvanHodges04/COMP-2210" target="_blank">[COMP-2710]</a> - Software Construction
 
 # Projects
 Coming Soon: Discord Bot
