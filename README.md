@@ -1,7 +1,7 @@
 # Evan Hodges
 
 <pre>
-Sophomore at Auburn University.
+Junior at Auburn University.
 Pursuing a Bachelor of Science in Computer Science and a certificate in Artificial Intelligence Engineering.
 
 # More About Me
