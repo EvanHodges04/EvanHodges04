@@ -24,5 +24,4 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 <a href="https://github.com/EvanHodges04/COMP-2710" target="_blank">[COMP-2710]</a> - Software Construction
 
 # Projects
-Coming Soon: Discord Bot
 </pre>
