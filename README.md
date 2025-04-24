@@ -17,7 +17,7 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 # Languages and Tools
 <a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.oracle.com/java" target="_blank">[Java]</a>
 
-# Coursework
+# Auburn Programming Coursework
 <a href="https://github.com/EvanHodges04/ENGR-1110" target="_blank">[ENGR-1110]</a> - Introduction to Computer Science and Software Engineering
 <a href="https://github.com/EvanHodges04/STAT-3010" target="_blank">[STAT-3010]</a> - Statistics for Engineers and Scientists
 <a href="https://github.com/EvanHodges04/COMP-1100" target="_blank">[COMP-1100]</a> - The Power of AI: Fundamentals to Applications
