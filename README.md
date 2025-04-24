@@ -19,9 +19,13 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 
 # Coursework
 <a href="https://github.com/EvanHodges04/ENGR-1110" target="_blank">[ENGR-1110]</a> - Introduction to Computer Science and Software Engineering
+<a href="https://github.com/EvanHodges04/STAT-3010" target="_blank">[STAT-3010]</a> - Statistics for Engineers and Scientists
+<a href="https://github.com/EvanHodges04/COMP-1100" target="_blank">[COMP-1100]</a> - The Power of AI: Fundamentals to Applications
 <a href="https://github.com/EvanHodges04/COMP-1210" target="_blank">[COMP-1210]</a> - Fundamentals of Computing I
 <a href="https://github.com/EvanHodges04/COMP-2210" target="_blank">[COMP-2210]</a> - Fundamentals of Computing II
 <a href="https://github.com/EvanHodges04/COMP-2710" target="_blank">[COMP-2710]</a> - Software Construction
+<a href="https://github.com/EvanHodges04/COMP-3270" target="_blank">[COMP-3270]</a> - Introduction to Algorithms
+<a href="https://github.com/EvanHodges04/COMP-3350" target="_blank">[COMP-3350]</a> - Computer Organization and Assembly Language Programming
 
 # Projects
 </pre>
