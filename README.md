@@ -8,7 +8,7 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 <a href="https://www.linkedin.com/in/evanhodges04/">[LinkedIn]</a> | <a href="https://auburn.joinhandshake.com/profiles/41558853">[Handshake]</a> | <a href="mailto:ejh0058@auburn.edu">[Email]</a>
 
 # Languages and Tools
-<a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.java.com/en" target="_blank">[Java]</a> | <a href="https://isocpp.org" target="_blank">[C++]</a> | <a href="https://tinyurl.com/4fvh9bep" target="_blank">[Assembly (MASM)]</a> | <a href="=https://posit.co/downloads" target="_blank">[R]</a> 
+<a href="https://www.python.org" target="_blank">[Python]</a> | <a href="https://www.java.com/en" target="_blank">[Java]</a> | <a href="https://isocpp.org" target="_blank">[C++]</a> | <a href="https://tinyurl.com/4fvh9bep" target="_blank">[Assembly (MASM)]</a> | <a href="=https://posit.co/downloads" target="_blank">[R (R Studio)]</a> 
 
 # Auburn Programming Coursework
 <a href="https://github.com/EvanHodges04/ENGR-1110" target="_blank">[ENGR-1110]</a> - Introduction to Computer Science and Software Engineering
