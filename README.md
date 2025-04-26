@@ -20,5 +20,6 @@ Pursuing a Bachelor of Science in Computer Science and a certificate in Artifici
 <a href="https://github.com/EvanHodges04/COMP-3270" target="_blank">[COMP-3270]</a> - Introduction to Algorithms
 <a href="https://github.com/EvanHodges04/COMP-3350" target="_blank">[COMP-3350]</a> - Computer Organization and Assembly Language Programming
 
-# Projects
+# Independent Projects
+N/A
 </pre>
